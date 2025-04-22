@@ -1,4 +1,4 @@
-# Assessing the risk of a Bird Flu pandemic and its effect on the United States and the Gloabal population
+# Assessing the risk of a Bird Flu pandemic and its effect on the United States and the Global population
 
 With the COVID-19 pandemic and its effects still clear in the minds of many americans and citizens world wide, it is distressing to think of how humanitie's next global pandemic will emierge, and how ready we our institutions are handle it.
 Regradless of the discofort, it is a critical national and global health concern that we must prepare for, by identifing and mitigatating the risk that future disease outbreaks pose. 
